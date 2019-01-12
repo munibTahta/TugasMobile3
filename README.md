@@ -17,5 +17,5 @@ Nim  : 2015150066
 Kls  : 02
 <br><br>
 QR CODE APP:
-<br><br><img src="qr.png">
+<br><br><img src="br.png">
 <br><br>
