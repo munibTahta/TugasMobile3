@@ -6,7 +6,7 @@ Nama : Munib Tahta
 <br>
 Nim  : 2015150120
 <br>
-Nama : A Mustangin
+Nama : A Mustanginudin
 <br>
 Nim  : 2015150022
 <br>
